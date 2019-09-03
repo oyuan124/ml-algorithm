@@ -8,8 +8,8 @@ In order to build powerful models, I need to understand how machine learning alg
 
 I plan to work on algorithms below:
 
-1. Linear Regression
-2. Logistic Regression
+1. Linear Regression (done)
+2. Logistic Regression (done)
 3. KNN
 4. Decision Tree
 5. Random Forest
@@ -33,7 +33,7 @@ I will work on this in three steps:
   - mapreduce computation
   - time complexity
   
-2. Implement algorithm in Python without build-in algorithm in sklearn.
+2. Implement algorithm in Python without using the model in sklearn.
 3. Utilize sklearn to work on specific dataset to practice improving the algorithm.
 
 ## Resources
