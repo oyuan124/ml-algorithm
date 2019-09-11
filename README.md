@@ -2,7 +2,7 @@
 
 ## What's this about
 
-In order to build powerful models, I need to understand how machine learning algorithms work and how to tune them so that I can achieve my goal. The basic idea is to implement each algorithm **with numpy and pandas**.
+In order to build powerful models, I need to understand how machine learning algorithms work and how to tune hyperparameters so that I can achieve my goal. The basic idea is to study each algorithm on **Introduction to Statistical Learning** and implement the algorithm. I will try to implement the algorithm without using sklearn if I can because I think it will help me understand how the model works.
 
 ## What algorithms to work
 
@@ -33,8 +33,8 @@ I will work on this in three steps:
   - mapreduce computation
   - time complexity
   
-2. Implement algorithm in Python without using the model in sklearn.
-3. Utilize sklearn to work on specific dataset to practice improving the algorithm.
+2. Implement algorithm in Python.
+3. Utilize sklearn document to work on adjust parameters to practice improving the algorithm.
 
 ## Resources
 
